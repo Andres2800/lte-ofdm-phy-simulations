@@ -48,6 +48,7 @@ All simulations implement full baseband processing, including modulation, OFDM/S
 
 ## Repository Structure
 
+```
 lte-ofdm-phy-simulations/
 │
 ├── README.md
@@ -62,7 +63,7 @@ lte-ofdm-phy-simulations/
 │ ├── 05_ofdm_beamforming.ipynb
 │ ├── 06_mimo_transmission.ipynb
 │ └── 07_ofdm_channel_coding.ipynb
-
+```
 ---
 
 ## **Simulation File Names**
