@@ -53,7 +53,10 @@ lte-ofdm-phy-simulations/
 │
 ├── README.md
 ├── images/
-│ └── test_image.png
+│ └── captura.jpg
+│ └── captura2.jpg
+│ └── Frame1.jpg
+│ └── Frame3.jpg
 │
 ├── notebooks/
 │ ├── 01_ofdm_basic.ipynb
